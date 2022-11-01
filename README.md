@@ -1,63 +1,8 @@
-<!-- <h1 align="center">
-    <img src="https://i.imgur.com/ceICOgl.png" width="400"/>
-</h1> -->
+<!-- 
 
 <h4 align="center"> 
-	🚧 Bike Cast 1;0 🚀 em construção... 🚧
+	🚧 HostfullyChBack 🚀 ... 🚧
 </h4>
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thlindustries/bikecastserver?style=plastic">
-
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/tgmarinho/nlw1/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/thlindustries/bikecastserver?style=plastic">
-  </a>
-</p>
-
-
-## 💻 Sobre o projeto
-
-🚴 Bike Cast - É um projeto pensado para pessoas que amam andar de bicicleta e que gostam de compartilhar suas opiniões sobre o esporte / lazer. Ideias de passeios, críticas construtivas, locais maravilhosos para andar, equipamentos úteis e muito mais... Você! Ciclista amador ou profissional, venha compartilhar sua opinição com a gente !
-
-Neste projeto a ideia é compartilhar uma base de dados de poadcasts sobre temas variados dentro do ciclismo!
-
-
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [React Native][rn]
-- [TypeScript][typescript]
-
-## 🚀 Como executar o projeto
-
-💡Para o correto funcionamento do app mobile é necessário que o servidor backend esteja rodando.
-
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js][nodejs]. 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
-
-### 🎲 Rodando o Back End (servidor)
-
-```bash
-# Clone este repositório
-$ git clone https://github.com/thlindustries/bikecastserver.git
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd bikecastserver
-
-# Instale as dependências
-$ yarn
-
-# Execute a aplicação
-$ yarn start
-
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
-```
 
 ## 😯 Como contribuir para o projeto
 
