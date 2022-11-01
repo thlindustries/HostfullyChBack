@@ -148,14 +148,14 @@
       "name": "Thiago",
       "lastName": "Kraetzer",
       "age": "24",
-      "tripId": "new-york-booking-1",
+      "id": "new-york-booking-1",
       "from": "2022-04-01T17:20:00.000Z",
       "to": "2022-08-01T17:20:00.000Z"
     }
   ],
   "tripsAvailability": [
     {
-      "tripId": "dubai-booking-1",
+      "id": "dubai-booking-1",
       "availablePeriods": [
         {
           "id": "booking-dubai-booking-1-1",
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "tripId": "campinas-booking-1",
+      "id": "campinas-booking-1",
       "availablePeriods": [
         {
           "id": "booking-campinas-booking-1-1",
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "tripId": "new-york-booking-1",
+      "id": "new-york-booking-1",
       "availablePeriods": [
         {
           "id": "booking-new-york-booking-1-1",
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "tripId": "caribe-booking-1",
+      "id": "caribe-booking-1",
       "availablePeriods": [
         {
           "id": "booking-caribe-booking-1-1",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "tripId": "california-booking-1",
+      "id": "california-booking-1",
       "availablePeriods": [
         {
           "id": "booking-california-booking-1-1",
