@@ -2,7 +2,7 @@
   "popularRoutes": [
     {
       "name":"Dubai",
-      "id": 1111,
+      "id": "dubai-booking-1",
       "thumb": "https://hostfully.netlify.app/dubai.webp",
       "price": {
         "from": 100,
@@ -11,7 +11,7 @@
     },
     {
       "name":"Campinas - SP",
-      "id": 2222,
+      "id": "campinas-booking-1",
       "thumb":  "https://hostfully.netlify.app/taquaral.webp",
       "price": {
         "from": 200,
@@ -20,7 +20,7 @@
     },
     {
       "name":"New York",
-      "id": 3333,
+      "id": "new-york-booking-1",
       "thumb":  "https://hostfully.netlify.app/newYork.webp",
       "price": {
         "from": 150,
@@ -29,7 +29,7 @@
     },
     {
       "name":"Caribe",
-      "id": 4444,
+      "id": "caribe-booking-1",
       "thumb":  "https://hostfully.netlify.app/homeBanner.webp",
       "price": {
         "from": 300,
@@ -38,12 +38,104 @@
     },
     {
       "name":"California",
-      "id": 5555,
+      "id": "california-booking-1",
       "thumb":  "https://hostfully.netlify.app/california.webp",
       "price": {
         "from": 400,
         "to": 110
       }
     }
-  ]
+  ],
+  "booking": {
+    "dubai-booking-1":{
+      "name":"Dubai",
+      "id": "dubai-booking-1",
+      "images": [
+        {
+          "altText": "dubai from sky",
+          "path": "https://hostfully.netlify.app/dubai.webp"
+        },
+        {
+          "altText": "dubai from sky",
+          "path": "https://hostfully.netlify.app/dubai-img-2.webp"
+        }
+      ],
+      "price": {
+        "from": 100,
+        "to": 50
+      }
+    },
+    "campinas-booking-1":{
+      "name":"Campinas - SP",
+      "id": "campinas-booking-1",
+      "images": [
+        {
+          "altText": "Taquaral's park, Campinas-SP, Brazil",
+          "path": "https://hostfully.netlify.app/taquaral.webp"
+        },
+        {
+          "altText": "dubai from sky",
+          "path": "https://hostfully.netlify.app/campinas-img-2.webp"
+        }
+      ],
+      "price": {
+        "from": 100,
+        "to": 50
+      }
+    },
+    "new-york-booking-1":{
+      "name":"New York",
+      "id": "new-york-booking-1",
+      "images": [
+        {
+          "altText": "new york time square",
+          "path": "https://hostfully.netlify.app/newYork.webp"
+        },
+        {
+          "altText": "dubai from sky",
+          "path": "https://hostfully.netlify.app/ny-image-2.webp"
+        }
+      ],
+      "price": {
+        "from": 100,
+        "to": 50
+      }
+    },
+    "caribe-booking-1":{
+      "name":"Caribe",
+      "id": "caribe-booking-1",
+      "images": [
+        {
+          "altText": "caribean boat",
+          "path": "https://hostfully.netlify.app/homeBanner.webp"
+        },
+        {
+          "altText": "dubai from sky",
+          "path": "https://hostfully.netlify.app/caribe-image-2.webp"
+        }
+      ],
+      "price": {
+        "from": 100,
+        "to": 50
+      }
+    },
+    "california-booking-1":{
+      "name":"California",
+      "id": "california-booking-1",
+      "images": [
+        {
+          "altText": "golden gate bridge",
+          "path": "https://hostfully.netlify.app/california.webp"
+        },
+        {
+          "altText": "dubai from sky",
+          "path": "https://hostfully.netlify.app/california-img-2.webp"
+        }
+      ],
+      "price": {
+        "from": 100,
+        "to": 50
+      }
+    }
+  }
 }
