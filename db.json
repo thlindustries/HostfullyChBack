@@ -75,7 +75,7 @@
           "path": "https://hostfully.netlify.app/taquaral.webp"
         },
         {
-          "altText": "dubai from sky",
+          "altText": "Campinas sky view",
           "path": "https://hostfully.netlify.app/campinas-img-2.webp"
         }
       ],
@@ -94,7 +94,7 @@
           "path": "https://hostfully.netlify.app/newYork.webp"
         },
         {
-          "altText": "dubai from sky",
+          "altText": "Central park new york view",
           "path": "https://hostfully.netlify.app/ny-image-2.webp"
         }
       ],
@@ -109,11 +109,11 @@
       "id": "caribe-booking-1",
       "images": [
         {
-          "altText": "caribean boat",
+          "altText": "caribbean boat",
           "path": "https://hostfully.netlify.app/homeBanner.webp"
         },
         {
-          "altText": "dubai from sky",
+          "altText": "Caribbean beach",
           "path": "https://hostfully.netlify.app/caribe-image-2.webp"
         }
       ],
@@ -132,7 +132,7 @@
           "path": "https://hostfully.netlify.app/california.webp"
         },
         {
-          "altText": "dubai from sky",
+          "altText": "california golden gate from beach",
           "path": "https://hostfully.netlify.app/california-img-2.webp"
         }
       ],
