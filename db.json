@@ -167,7 +167,7 @@
           "id": "booking-dubai-booking-1-2",
           "from": "2022-04-01T17:20:00.000Z",
           "to": "2022-08-01T17:20:00.000Z",
-          "available": true
+          "available": false
         },
         {
           "id": "booking-dubai-booking-1-3",
