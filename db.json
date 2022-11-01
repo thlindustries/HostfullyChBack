@@ -1,0 +1,49 @@
+{
+  "popularRoutes": [
+    {
+      "name":"Dubai",
+      "id": 1111,
+      "thumb": "https://hostfully.netlify.app/dubai.webp",
+      "price": {
+        "from": 100,
+        "to": 50
+      }
+    },
+    {
+      "name":"Campinas - SP",
+      "id": 2222,
+      "thumb":  "https://hostfully.netlify.app/taquaral.webp",
+      "price": {
+        "from": 200,
+        "to": 150
+      }
+    },
+    {
+      "name":"New York",
+      "id": 3333,
+      "thumb":  "https://hostfully.netlify.app/newYork.webp",
+      "price": {
+        "from": 150,
+        "to": 100
+      }
+    },
+    {
+      "name":"Caribe",
+      "id": 4444,
+      "thumb":  "https://hostfully.netlify.app/homeBanner.webp",
+      "price": {
+        "from": 300,
+        "to": 150
+      }
+    },
+    {
+      "name":"California",
+      "id": 5555,
+      "thumb":  "https://hostfully.netlify.app/california.webp",
+      "price": {
+        "from": 400,
+        "to": 110
+      }
+    }
+  ]
+}
