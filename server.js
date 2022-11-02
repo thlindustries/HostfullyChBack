@@ -1,9 +1,8 @@
 const jsonServer = require('json-server');
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
-// const middlewares = jsonServer.defaults({readOnly: true});
 const middlewares = jsonServer.defaults();
-const fakeDelay = (req, res, next) => { setTimeout(next, 2000) } // 2 sec delay
+const fakeDelay = (req, res, next) => { setTimeout(next, 2000) }
 const port = process.env.PORT || 3001;
 
 server.use(fakeDelay);
