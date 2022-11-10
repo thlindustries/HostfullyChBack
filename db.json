@@ -3,7 +3,7 @@
     {
       "name": "Dubai",
       "id": "dubai-booking-1",
-      "thumb": "https://hostfully.netlify.app/dubai.webp",
+      "thumb": "https://thlbooking.netlify.app/dubai.webp",
       "price": {
         "from": 100,
         "to": 50
@@ -12,7 +12,7 @@
     {
       "name": "Campinas - SP",
       "id": "campinas-booking-1",
-      "thumb": "https://hostfully.netlify.app/taquaral.webp",
+      "thumb": "https://thlbooking.netlify.app/taquaral.webp",
       "price": {
         "from": 200,
         "to": 150
@@ -21,7 +21,7 @@
     {
       "name": "New York",
       "id": "new-york-booking-1",
-      "thumb": "https://hostfully.netlify.app/newYork.webp",
+      "thumb": "https://thlbooking.netlify.app/newYork.webp",
       "price": {
         "from": 150,
         "to": 100
@@ -30,7 +30,7 @@
     {
       "name": "Caribe",
       "id": "caribe-booking-1",
-      "thumb": "https://hostfully.netlify.app/homeBanner.webp",
+      "thumb": "https://thlbooking.netlify.app/homeBanner.webp",
       "price": {
         "from": 300,
         "to": 150
@@ -39,7 +39,7 @@
     {
       "name": "California",
       "id": "california-booking-1",
-      "thumb": "https://hostfully.netlify.app/california.webp",
+      "thumb": "https://thlbooking.netlify.app/california.webp",
       "price": {
         "from": 400,
         "to": 110
@@ -53,11 +53,11 @@
       "images": [
         {
           "altText": "dubai from sky",
-          "path": "https://hostfully.netlify.app/dubai.webp"
+          "path": "https://thlbooking.netlify.app/dubai.webp"
         },
         {
           "altText": "dubai from sky",
-          "path": "https://hostfully.netlify.app/dubai-img-2.webp"
+          "path": "https://thlbooking.netlify.app/dubai-img-2.webp"
         }
       ],
       "price": {
@@ -72,11 +72,11 @@
       "images": [
         {
           "altText": "Taquaral's park, Campinas-SP, Brazil",
-          "path": "https://hostfully.netlify.app/taquaral.webp"
+          "path": "https://thlbooking.netlify.app/taquaral.webp"
         },
         {
           "altText": "Campinas sky view",
-          "path": "https://hostfully.netlify.app/campinas-img-2.webp"
+          "path": "https://thlbooking.netlify.app/campinas-img-2.webp"
         }
       ],
       "price": {
@@ -91,11 +91,11 @@
       "images": [
         {
           "altText": "new york time square",
-          "path": "https://hostfully.netlify.app/newYork.webp"
+          "path": "https://thlbooking.netlify.app/newYork.webp"
         },
         {
           "altText": "Central park new york view",
-          "path": "https://hostfully.netlify.app/ny-image-2.webp"
+          "path": "https://thlbooking.netlify.app/ny-image-2.webp"
         }
       ],
       "price": {
@@ -110,11 +110,11 @@
       "images": [
         {
           "altText": "caribbean boat",
-          "path": "https://hostfully.netlify.app/homeBanner.webp"
+          "path": "https://thlbooking.netlify.app/homeBanner.webp"
         },
         {
           "altText": "Caribbean beach",
-          "path": "https://hostfully.netlify.app/caribe-image-2.webp"
+          "path": "https://thlbooking.netlify.app/caribe-image-2.webp"
         }
       ],
       "price": {
@@ -129,11 +129,11 @@
       "images": [
         {
           "altText": "golden gate bridge",
-          "path": "https://hostfully.netlify.app/california.webp"
+          "path": "https://thlbooking.netlify.app/california.webp"
         },
         {
           "altText": "california golden gate from beach",
-          "path": "https://hostfully.netlify.app/california-img-2.webp"
+          "path": "https://thlbooking.netlify.app/california-img-2.webp"
         }
       ],
       "price": {
